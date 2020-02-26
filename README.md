@@ -121,7 +121,7 @@ node.sh=my_script.js    ; Run my_script.js with example wrapper: examples/node.s
 
 ### Install
 ```
-npm install next-yate
+npm install next-yate-compat
 ```
 
 ### Network connected script
