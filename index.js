@@ -3,7 +3,7 @@
  * @author Anton <aucyxob@gmail.com>
  * @version 0.0.5
  * @license Apache-2.0
- * @description Nodejs library compatible to javascript.yate Yate module.
+ * @description Nodejs library compatible with javascript.yate Yate module.
  * @requires "next-yate"
  * @see https://github.com/0LEG0/next-yate-compat
  * @see https://docs.yate.ro/wiki/Javascript_Reference
