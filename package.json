@@ -1,0 +1,31 @@
+{
+  "name": "next-yate-compat",
+  "version": "0.0.5",
+  "description": "Next-Yate is Nodejs interface library to the Yate external module (Yet Another Telephony Engine) compatible to javascript.yate module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0LEG0/next-yate-compat.git"
+  },
+  "keywords": [
+    "yate",
+    "extmodule",
+    "javascript.yate",
+    "node"
+  ],
+  "author": "Anton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/0LEG0/next-yate-compat/issues"
+  },
+  "homepage": "https://github.com/0LEG0/next-yate-compat",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "next-yate": "^0.0.4"
+  }
+}
